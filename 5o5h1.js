@@ -1,15 +1,13 @@
-$(`<img src=" sico/1583097699187.jpg "gclass="fr" style="width:100%;margin-right: 2px;">
-<a href="https://chatcom.live/" style="width:90px;margin:2px;" class="fl mini  fa   fa-phone btn btn-warning"> جنون العاشقين  </a>
-<a href="https://chatcom.live/" style="width:85px;margin:2px;" class="fl mini  fa  fa-heartbeat
-btn btn-danger"> التطبيـق</a>
-<a href="https://chatcom.live/" style="width:87px;margin:2px;" class="fl mini  fa   fa-star
-btn btn-success">واتس اب</a>
-<a href="https://chatcom.live/" style="width:90px;margin:2px;" class="fl mini  fa fa-graduation-cap
-btn btn-info"> القوانين</
+$(`<img src="https://chatcom.live/sico/1583097699187.jpg" class="fr" style="width:100%;margin-right: 2px;">
+
+<a id="des3" href="" style="border-radius: 24px;width:23%;margin:2px;" class="fl mini  fa  fa-graduation-cap btn btn-primary"> الفعاليات</a>
+<a id="des3" style="border-radius: 24px;width:23%;margin:2px;" class="fl mini  fa   fa-star btn btn-default" href="">القوانين</a>
+<a id="des3" style="border-radius: 24px;width:27%;margin:2px;" class="fl mini  fa fa-graduation-cap btn btn-primary" //">الإشتركات  
+</a>
+<a id="des3" style="border-radius: 24px;width:22%;margin:2px;" class="fl mini  fa fa-phone btn btn-default" href="">الرئيسية</a>
 <div style=" width: 100%; " id="asim33" class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> اداره الموقع </div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary">  <i class="fa fa-paper-plane">  </i> اداره 
 الموقع </p> <i class="fa fa-comment"></i> <i 
-class="fa fa-share"> </i> </p> <i class="fa fa-comment"></i> <i class="fa fa-share"> خـــوخـــه </i> </p> <i class="fa fa fa-comment"> </i> <i class="fa fa-share"> </i> </div></div><center></div></div><center><center><div><marquee direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >
-
+class="fa fa-share"> </i> </p> <i class="fa fa-comment"></i> <i class="fa fa-share"> خــوخــه </i> </p> <i class="fa fa fa-comment"> </i> <i class="fa fa-share"> </i> </div></div><center></div></div><center><center><div><marquee direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >
 `).insertBefore('.nav-tabs');
 
 $('.nav-tabs').addClass('fl').css('width','100%');
